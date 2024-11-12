@@ -1,0 +1,13 @@
+*.class
+.vscode/
+*.log
+*.tmp
+.idea/
+*.iml
+target/
+build/
+.env
+.DS_Store
+*.zip
+*.tar.gz
+*.db
